@@ -14,15 +14,12 @@ Built with **SceneKit** and **SwiftUI**, Scale provides a seamless, high-perform
 
 ## Visual Gallery
 
-````carousel
-![Human Realm](media/human_realm.png)
-<!-- slide -->
-![Planetary Realm](media/planetary_realm.png)
-<!-- slide -->
-![Quantum Realm](media/quantum_realm.png)
-<!-- slide -->
-![GitHub Repository](media/screenshot_github.png)
-````
+|<img src="media/human_realm.png" width="400">|<img src="media/planetary_realm.png" width="400">|
+|---|---|
+|<img src="media/quantum_realm.png" width="400">|<img src="media/readme_fix.png" width="400">|
+
+*Screenshot of the project on GitHub:*
+<img src="media/github_author_fix.png" width="800">
 
 ## Technical Details
 
