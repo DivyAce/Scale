@@ -20,6 +20,8 @@ Built with **SceneKit** and **SwiftUI**, Scale provides a seamless, high-perform
 ![Planetary Realm](media/planetary_realm.png)
 <!-- slide -->
 ![Quantum Realm](media/quantum_realm.png)
+<!-- slide -->
+![GitHub Repository](media/screenshot_github.png)
 ````
 
 ## Technical Details
