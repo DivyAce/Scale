@@ -16,7 +16,7 @@ let package = Package(
         .iOSApplication(
             name: "Scale",
             targets: ["AppModule"],
-            bundleIdentifier: "com.anish.scale",
+            bundleIdentifier: "com.divyanshu.scale",
             teamIdentifier: "R8JTKBB3PJ",
             displayVersion: "1.0",
             bundleVersion: "1",

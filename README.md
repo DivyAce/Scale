@@ -35,4 +35,4 @@ Built with **SceneKit** and **SwiftUI**, Scale provides a seamless, high-perform
 3. Hit Play and start your journey!
 
 ---
-Created by Anish
+Created by Divyanshu Singh
